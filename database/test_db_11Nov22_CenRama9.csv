@@ -1,0 +1,4 @@
+datetime,order_id,branch,product_id,quantity,unit_price,total_price
+11-11-22,95105,Central Rama 9,104,2,64,128
+11-11-22,95106,Central Rama 9,501,1,22,22
+11-11-22,95107,Central Rama 9,602,1,32,32
